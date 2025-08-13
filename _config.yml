@@ -55,7 +55,7 @@ feed:
   hide: false
   color: "success"
 
-#google_analytics: "UA-XXXXXXXXX-X" # Google Analytics tracking ID
+google_analytics: "G-H6LVWKSNLX" # Google Analytics tracking ID
 
 plugins:
   - jekyll-feed
