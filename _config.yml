@@ -12,7 +12,7 @@ description: >
   results) and in your feed.xml site description.
 
 url: "https://0x007e.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-tilde-theme" # the subpath of your site, e.g. /blog
 remote_theme: 0x007e/tilde
 
 social:
