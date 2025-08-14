@@ -41,7 +41,7 @@ tilde:
   #   - about.md
   # date_format: "%b %-d, %Y"
   show_introduction: true
-  visible_posts: 2
+  visible_posts: 4
   category_show_goto: true
   truncate_next_blog_link: 35
 
