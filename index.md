@@ -1,9 +1,7 @@
 ---
 layout: home
----
-
-## {{ site.subtitle }}
-
+title: Blog Entries
+permalink: /
 ---
 
 Welcome to our blog section!  
