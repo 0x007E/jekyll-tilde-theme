@@ -17,10 +17,10 @@ copyright: "Distributed by 0x007E"
 license: "https://github.com/0x007e/tilde/LICENSE.md"
 
 description: >
-  On the following pages there are some notes, tips and tricks to use this Theme
-  within github-pages. The theme is to write blog posts, either in categories or
-  a single collection of posts. It is not a designed to write a documentation. It
-  uses bootstrap 5 and is fully responsive.
+  The theme is to write blog posts, either in categories or a single collection of
+  posts. It is not designed to write a documentation. It uses bootstrap 5 and is
+  fully responsive. Also code blocks with syntax highlighting are supported.
+  The theme is designed to be used with Jekyll and GitHub Pages.
 
 url: "https://0x007e.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/jekyll-tilde-theme" # the subpath of your site, e.g. /blog
