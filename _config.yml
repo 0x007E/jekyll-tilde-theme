@@ -1,15 +1,26 @@
-title: "My Jekyll Blog Page"
-subtitle: "Blog Entries"
+title: "Tilde Theme for Jekyll"
+# If brand is not set the github user avatar will be used.
+# Priority:
+# - image
+# - gravatar
+# - github user avatar
+brand:
+  # image: "https://image.url/here.png"
+  # Mail SHA256 encrypted with https://emn178.github.io/online-tools/sm3.html
+  gravatar: "f4ef9cbf3c2c5a2a1afa89a33134b335b5237132f06729990cacbfc5646b0b6a"
+  # width: 20   # default: 30
+  # height: 20  # default: 30
 github:
   user: "0x007e"
-  email: "person@mail.address"
-copyright: "Created by 0x007E"
+  # email: "person@mail.address"
+copyright: "Distributed by 0x007E"
 license: "https://github.com/0x007e/tilde/LICENSE.md"
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  On the following pages there are some notes, tips and tricks to use this Theme
+  within github-pages. The theme is to write blog posts, either in categories or
+  a single collection of posts. It is not a designed to write a documentation. It
+  uses bootstrap 5 and is fully responsive.
 
 url: "https://0x007e.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/jekyll-tilde-theme" # the subpath of your site, e.g. /blog
@@ -41,7 +52,7 @@ tilde:
   #   - about.md
   # date_format: "%b %-d, %Y"
   show_introduction: true
-  visible_posts: 4
+  visible_posts: 2
   category_show_goto: true
   truncate_next_blog_link: 35
 
@@ -55,7 +66,7 @@ feed:
   hide: false
   color: "success"
 
-google_analytics: "G-H6LVWKSNLX" # Google Analytics tracking ID
+#google_analytics: "UA-XXXXXXXXX-X" # Google Analytics tracking ID
 
 plugins:
   - jekyll-feed
@@ -63,7 +74,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-avatar
-  - jekyll-remote-theme
 
 markdown: kramdown
 kramdown:
