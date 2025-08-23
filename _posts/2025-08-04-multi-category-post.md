@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [General,Hardware]
+categories: [General,Configuration]
 introduction: "Multi-Category-Post, displayed in General and in Hardware"
 ---
 
