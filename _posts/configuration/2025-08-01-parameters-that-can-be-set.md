@@ -102,19 +102,19 @@ tilde:
 
 If `show_introduction` is enabled an short introduction text is displayed in the list of blogs when the `introduction` variable is defined in the blog markdown.
 
-![Introduction](/assets/images/tilde-short-introduction-text.png)
+![Introduction]({{ site.baseurl }}/assets/images/tilde-short-introduction-text.png)
 
 > Informations how to write an introduction can be found in the *Write a short introduction* post
 
 With the Variable `visible_posts` it is possible to control how much content is displayed on the `home`-site. If there are more posts in a category they get hided.
 
-![Hiding Posts](/assets/images/tilde-categories.png)
+![Hiding Posts]({{ site.baseurl }}/assets/images/tilde-categories.png)
 
 > With the button `Show more` the hided posts can be displayed.
 
 The `category_show_goto` option enabled a menu in the top to navigate to the categories within a heading.
 
-![Goto Categories](/assets/images/tilde-category-goto.png)
+![Goto Categories]({{ site.baseurl }}/assets/images/tilde-category-goto.png)
 
 In the bottom of the site a link to the previous and to the next blog post is displayed. If the Text is to long the design crashes. The `truncate_next_blog_link` parameter sets the maximum length of the link text before it gets truncated.
 
@@ -129,7 +129,7 @@ footer:
 
 > Sumarized it always has to be 10!
 
-![Footer Division](/assets/images/tilde-footer-division.png)
+![Footer Division]({{ site.baseurl }}/assets/images/tilde-footer-division.png)
 
 A `feed` is automatically generated. To disable the feed link set `hide` to `true`. If the link gets displayed the color can be adjusted throug the `bootstrap` standard color palette (same color as in the `social` section).
 

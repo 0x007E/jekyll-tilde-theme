@@ -35,6 +35,6 @@ modified_date: 2025-08-09 13:37:37 +0200
 
 #### Result
 
-![Modified date](/assets/images/tilde-modified-date.png)
+![Modified date]({{ site.baseurl }}/assets/images/tilde-modified-date.png)
 
 Further information can be found in the next posts...

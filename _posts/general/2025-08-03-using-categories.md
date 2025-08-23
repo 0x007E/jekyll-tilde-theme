@@ -55,4 +55,4 @@ categories: [Hardware, Software]
 
 ### Result
 
-![Categories](/assets/images/tilde-categories.png)
+![Categories]({{ site.baseurl }}/assets/images/tilde-categories.png)
