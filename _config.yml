@@ -1,4 +1,4 @@
-title: "Tilde Theme for Jekyll"
+title: "Jekyll Tilde Theme for GitHub Pages"
 # If brand is not set the github user avatar will be used.
 # Priority:
 # - image
@@ -48,8 +48,12 @@ social:
 
 tilde:
   # Restict links in navbar to listed pages
-  # nav_pages:
-  #   - about.md
+  # -> e.g. if you have a README.md/LICENSE.md in your root folder
+  nav_pages:
+    - about.md
+    - impressum.md
+  # Set in which formate dates are displayed
+  # Possible formats: https://shopify.github.io/liquid/filters/date/
   # date_format: "%b %-d, %Y"
   show_introduction: true
   visible_posts: 2
