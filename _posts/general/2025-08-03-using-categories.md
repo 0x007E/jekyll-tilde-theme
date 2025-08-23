@@ -53,3 +53,6 @@ categories: [Hardware, Software]
 ---
 ```
 
+### Result
+
+![Categories](/assets/images/tilde-categories.png)

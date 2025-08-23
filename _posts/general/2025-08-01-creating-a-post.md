@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Creating a post"
-author:
-    name: "sunriax"
-    github: true
+modified_date: 2025-08-17 13:37:37 +0200
 categories: [General]
 introduction: "This post provides a brief introduction to the Jekyll template and describes the basic functionality of variables in the header and their application on the page."
 ---
@@ -34,5 +32,9 @@ modified_date: 2025-08-09 13:37:37 +0200
 ...
 ---
 ```
+
+#### Result
+
+![Modified date](/assets/images/tilde-modified-date.png)
 
 Further information can be found in the next posts...

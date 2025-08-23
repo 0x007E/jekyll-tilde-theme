@@ -26,4 +26,8 @@ introduction: "How is it possible to write a short introduction text under the l
 Here comes to blog post...
 ```
 
-The introduction text is now displayed on the `home`-site.
+### Result
+
+The introduction text is now displayed on the `home`-site:
+
+![Introduction Text](/assets/images/tilde-short-introduction-text.png)
