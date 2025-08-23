@@ -11,9 +11,11 @@ A simple introduction how to add an image to a blog post
 
 If the image is hosted on github it should be copied into the assets folder `/assets/images/...'. After that the image can easyly be included.
 
+```
 {% raw %}
 ![Image Desciption]({{ '/assets/images/picture.png' | relative_url }})
 {% endraw %}
+```
 
 > it is necessary to convert the path to the relative_url of the page (`{{ '' | relative_url }}`) or the image is not getting displayed correctly wenn the site is hosted in a subfolder!
 
