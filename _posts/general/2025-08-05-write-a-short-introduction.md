@@ -30,4 +30,4 @@ Here comes to blog post...
 
 The introduction text is now displayed on the `home`-site:
 
-![Introduction Text]({{ site.baseurl }}/assets/images/tilde-short-introduction-text.png)
+![Introduction Text]({{ '/assets/images/tilde-short-introduction-text.png' | relative_url }})
