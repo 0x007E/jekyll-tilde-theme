@@ -5,7 +5,7 @@ introduction: "Highlight syntax in different programming languages and/or styles
 ---
 
 In this theme it is possible to mark code like in every github markdown file. 
-> Take a look in the `raw` file [here](https://github.com/0x007e/jekyll-tilde-theme/_posts/general/2025-08-17-syntax-highlighting.md) to see how it works.
+> Take a look in the `raw` file [here](https://raw.githubusercontent.com/0x007E/jekyll-tilde-theme/refs/heads/main/_posts/general/2025-08-17-syntax-highlighting.md) to see how it works.
 
 ### YAML
 
