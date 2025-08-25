@@ -1,4 +1,4 @@
-[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/jekyll-tilde-theme) [![License MIT](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE.md) ![](https://img.shields.io/badge/Powered%20by-Jekyll-red.svg) ![Build](https://github.com/0x007e/jekyll-tilde-theme/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/jekyll-tilde-theme) [![License MIT](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE.md) [![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-red.svg)](https://jekyllrb.com/) ![Build](https://github.com/0x007e/jekyll-tilde-theme/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 # Jekyll Tilde Template
 
