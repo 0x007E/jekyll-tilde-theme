@@ -17,7 +17,7 @@ If the image is hosted on github it should be copied into the assets folder `/as
 {% endraw %}
 ```
 
-> it is necessary to convert the path to the relative_url of the page (`{{ '' | relative_url }}`) or the image is not getting displayed correctly wenn the site is hosted in a subfolder!
+> It is necessary to convert the path to the relative_url of the page (`{{ '' | relative_url }}`) or the image is not getting displayed correctly wenn the site is hosted in a subfolder!
 
 ### Absolute Path
 
