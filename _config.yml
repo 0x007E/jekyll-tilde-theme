@@ -14,7 +14,7 @@ github:
   user: "0x007e"
   # email: "person@mail.address"
 copyright: "Distributed by 0x007E"
-license: "https://github.com/0x007e/jekyll-tilde-theme/LICENSE.md"
+license: "https://github.com/0x007E/jekyll-tilde-theme/blob/main/LICENSE.md"
 
 description: >
   The theme is to write blog posts, either in categories or a single collection of
