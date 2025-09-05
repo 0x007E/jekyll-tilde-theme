@@ -1,4 +1,4 @@
-[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/jekyll-tilde-theme) [![License MIT](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE.md) [![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-red.svg)](https://jekyllrb.com/) ![Build](https://github.com/0x007e/jekyll-tilde-theme/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/jekyll-tilde-theme) [![License MIT](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE.md) [![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-red.svg)](https://jekyllrb.com/) ![Build](https://github.com/0x007e/jekyll-tilde-theme/actions/workflows/pages/pages-build-deployment/badge.svg) [![Featured on JT](https://img.shields.io/badge/Featured%20on-JT-red.svg)](https://jekyll-themes.com/0x007E/jekyll-tilde-template)
 
 # Jekyll Tilde Template
 
