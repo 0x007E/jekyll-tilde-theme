@@ -2,6 +2,8 @@
 
 # Jekyll Tilde Template
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0x007E/jekyll-tilde-theme)
+
 This theme is designed to be used as a (multi-category) blog that gets automatically built with github-pages.
 
 > An introduction of the functionallity, how to use this theme and a preview of it´s looking can be found [here](https://0x007e.github.io/jekyll-tilde-theme).
